@@ -27,3 +27,10 @@
     background-color: rgb(14 165 233);
     color: white;
 }
+.error{
+    color: red;
+    text-align: center;
+    font-size: 10px;
+    font-style:italic;
+    margin: 5px;
+}
